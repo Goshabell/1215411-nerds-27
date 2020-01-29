@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Георгий Белов](https://up.htmlacademy.ru/htmlcss/27/user/1215411).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктор Гирда](https://htmlacademy.ru/profile/viktorgirda).
 
 ---
 
